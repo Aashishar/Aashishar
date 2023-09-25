@@ -5,7 +5,7 @@
 - 📫 How to reach me itsmeaashisharyal@gmail.com
 
 <h1 align="center">Hi 👋, I'm Aashish Aryal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate mobile developer from nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishar&label=Profile%20views&color=0e75b6&style=flat" alt="aashishar" /> </p>
 
